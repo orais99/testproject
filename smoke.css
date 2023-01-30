@@ -1,0 +1,68 @@
+.smoke{
+    position: relative;
+    left: 200px;
+    bottom:250px;
+    padding: 0px;
+}
+
+img {
+    border-radius: 30px;
+}
+
+p {
+    border: 0px solid black;
+    width: 600px;
+    font-size: 32px;
+    position: relative;
+    left: 60%;
+    top: 200px;
+}
+
+.logo {
+    padding: 0px;
+    border-radius: 20px;
+    position: absolute; top: 2px;
+}
+
+.search {
+    position:absolute; left:87%; bottom: 77%; 
+    }
+
+
+h1 {
+        text-align: center;
+        font-family:'Franklin Gothic Medium' ;
+        font-size: 56px;;
+        padding: 0px;
+    }
+
+    li a:hover {
+        background-color: red;
+        }
+
+li a {
+            display: inline-block;
+            color:black;
+            padding: 14px 16px;
+            background-color: darkred;
+            font-size: 32px;
+            font-family:Tahoma ;
+            padding-right: 100px;
+            text-decoration: none;
+        }
+
+        ul {
+            list-style-type: none;
+            background-color:darkred;}  
+        li {
+            display: inline;
+            float: top;
+        }
+
+        .purch {
+            position: relative;
+            left: 19%;
+            top:200px;  
+            
+            text-decoration: none;
+        }

@@ -1,0 +1,89 @@
+
+ul {
+    list-style-type: none;
+    background-color:darkred;}  
+li {
+    display: inline;
+    float: top;
+}
+
+li a {
+    display: inline-block;
+    color:black;
+    padding: 14px 16px;
+    background-color: darkred;
+    font-size: 32px;
+    font-family:Tahoma ;
+    padding-right: 100px;
+    text-decoration: none;
+}
+
+li a:hover {
+background-color: red;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Franklin Gothic Medium' ;
+    font-size: 56px;;
+    padding: 0px;
+}
+
+.search {
+position:absolute; left:87%; bottom: 77%; 
+}
+
+.logo {
+    padding: 0px;
+    border-radius: 20px;
+    position: absolute; top: 2px;
+}
+
+p {
+    border: 0px solid black;
+    width: 600px;
+    font-size: 32px;
+    position: relative;
+    left: 60%;
+    top: 200px;
+}
+
+.h1new {
+    position: relative;
+    left: 19%;
+    top:200px;  
+    
+    text-decoration: none;
+}
+
+ .smoke{
+    position: relative;
+    left: 200px;
+    bottom:350px;
+    padding: 0px;
+}
+
+.other {
+    position:absolute;
+    top: 125%;
+    left: 900px;
+}
+
+img {
+    border-radius: 30px;
+}
+.invisible {
+    position: absolute  ;
+top: 151%;
+}
+.visual {
+    position: absolute;
+    left: 825px;
+top:151%;
+}
+
+.euphor {
+    position:absolute;
+    top:151%;
+    right: 5px;
+}
